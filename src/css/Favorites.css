@@ -1,8 +1,10 @@
 .favorites {
-  padding: 2rem;
+  padding: 2rem 0rem;
   width: 100%;
   box-sizing: border-box;
+
 }
+
 
 .favorites h2 {
   margin-bottom: 2rem;
@@ -58,14 +60,9 @@
   .search-form {
     margin-bottom: 1rem;
   }
+
 }
 
-.movies-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  padding: 1rem;
-  width: 100%;
-  box-sizing: border-box;
-}
+
+
 
